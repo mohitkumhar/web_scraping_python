@@ -1,0 +1,174 @@
+Title of The Article is: Impact of COVID-19 (Coronavirus) on the Indian Economy - Blackcoffer Insights
+
+
+
+From the economic point of
+view, India is confronted today with perhaps its greatest emergency since independence. The global financial
+crisis in 2008-09 was a gigantic demand shock, but our workers could still get-up-and-go to work, our firms were coming off years of steady growth, our financial system was largely sound, and our government finances were blooming. None of this is true today as
+we fight the
+coronavirus pandemic. Yet
+there is also no reason to
+despair. With the right undertakings and
+priorities, and drawing on India’s many sources of strength, it can kill this virus back, and even set the stage for a much more hopeful tomorrow.
+The rampant spread of COVID-19 outbreak, across borders and geographies, has severely impacted almost the whole world and triggered significant downside risks to the overall global economic outlook. Steps taken to contain its spread, such as the nationwide lockdown announced by the Indian Government, have brought economic activity to a near – standstill with impacts on both consumption and investment. India’s real GDP growth decelerated to its lowest in over 6 years in 3Q 2019 – 2020 and the outbreak of COVID – 19 posted fresh challenges. For most businesses, the slowdown could be in the form of supply disruptions, fall in consumption demand, and stress on the banking and financial sectors. In sum the three major contributors to GDP will all get affected i.e. Private Consumption, Investment and External Trade.
+
+Figure 1.1: Showing quarterly growth in GDP (in %). Source: MoSPI
+Assessing the exact impact for India is hard
+with uncertainty on how long the pandemic would last. Three likely scenarios for India’s economic situation could be:
+An
+optimistic situation that shows a temporary impact of COVID-19 and a V-shaped recovery: Under this forecast scenario, the COVID-19
+pandemic in India could be controlled efficiently by June 2020. The
+government’s effective interventions may improve healthcare resources and
+services, and India’s economy could revive from Q2 FY2021 onwards.         
+
+Scenario 1
+
+Quarters
+
+  Q4 FY20
+  
+  Q1 FY21
+  
+  Q2 FY21
+  
+  Q3 FY21–Q4 FY22
+  
+GDP growth
+
+  4.0–4.2% 
+  
+  2.5–2.8%
+  
+  4.1–4.3% 
+  
+  5.5–6.8%
+  
+Inflation
+
+  Moderate
+     Low around the target rate    
+  Low
+  
+  Rises but moderate
+  
+            Figure 1.2: Showing an optimistic situation. Source: Deloitte
+A
+somewhat optimistic scenario with a severe and extended impact of COVID-19 and
+a U-shaped recovery:
+In the second scenario, India may see limited success in controlling the spread
+despite the focus on public health-related measures and fiscal policies. With
+stringent restrictions on movement, the current lockdown may extend until
+September 2020. Some industries will face pressure as rising debt and defaults
+affect market sentiments, stress the financial sector, and reduce domestic demand.
+
+Scenario 2
+
+Quarters
+
+  Q4 FY20
+  
+  Q1–Q3 FY21
+  
+  Q4 FY21
+  
+  Q1 FY22– Q4 FY23
+  
+GDP growth
+
+  4.0–4.2% 
+  
+  2.2–3.0%
+  
+  4.2–4.4% 
+  
+  5.5–7.5%
+  
+Inflation
+
+  Moderate
+  
+  Low moderates by Q4 FY21  
+  
+  Moderate
+  
+  Rises above 4 %
+  
+Figure 1.3: Showing an optimistic scenario with a severe and extended impact of COVID-19. Source: Deloitte
+In scenario 2, inflation picks up in H2 FY
+2021 as demand revives faster than supply. Inflation may increase above the
+target range (4 percent) for a short time in FY 2021 because of economic
+overheating. In this scenario, inflation remains 3-4 percent during this period
+despite weak demand because of a sharper fall in production.
+A pessimistic situation, with a prolonged severe downturn leading to a new low-level normal: Under the third scenario, the pandemic may spread rapidly (amidst strict movement restrictions) until Q4 FY2021. Due to the steep decline in demand, the economy will witness production cuts. The situation will ease only in Q1 FY2022 after medical interventions. Subsequently, the economy will revive modestly as consumers will continue to be wary of spending, which will affect long-term spending. Over the next two years, the model predicts the economy to grow by 1.5–2%, lower than it would have grown otherwise, with unequal recovery across sectors.
+
+Scenario
+  3
+
+Quarters
+
+  Q4 FY20
+  
+  Q1–Q4 FY21
+  
+  Q1–Q4 FY22
+  
+  Q1 FY23–Q4 FY23
+  
+GDP
+  growth
+
+  4.0–4.2% 
+  
+  2.2–3.5%
+  
+  4.4–4.5% 
+  
+  5–6%
+  
+Inflation
+
+  Moderate
+  
+  Moderate  
+  
+  Moderate
+  
+Figure 1.4: Showing pessimistic situation, with a
+prolonged severe downturn. 
+Source: Deloitte.
+Impact on the Demand side:
+Private
+Consumption: The
+lockdown is likely to have a sizeable impact on the economy, most significantly
+on consumption, which is the biggest component of GDP.
+Steep fall in the consumption of non-essential goods due to a significant reduction in urban transactions.Severe impact on the domestic supply chain disruptions due to the 21 –day lockdown can affect the availability of essential commodities. Weak domestic consumption and consumer sentiment will have firms delay their investment and putting additional pressure on growth.
+Informal sector: Rajasthan, Punjab, Andhra Pradesh, Chhattisgarh, and Gujarat are among the top five states with the highest urban informal workers (non–agriculture)
+Around 37 percent of regular salaried employees in urban India are informal workers, who will face uncertain income following the stalling of urban activity.INR 1.7 trillion stimulus package, focused majorly on cash transfer and food security was unveiled.The income shock to migrant workers has resulted in a massive reverse migration, the effect of which will only unravel over time.
+Impact on the Supply side:
+The shutdown of factories and the resultant delay in the supply of goods in China could result in the supply chain of both raw materials and intermediate goods for Indian companies importing from there.While disruption in output in China could impact some Indian Industries, the economy at large may be relatively insulated given its low reliance on intermediate goods from China as well as the common practice in Indian firms of stockpiling inventory.Another challenge is the disruptions of the domestic supply chain due to the lockdown, which may create a shortage of inputs for Indian firms when they restart their operations.
+
+           
+Figure 1.5: Showing supply
+chain disruptions. Source: The Economic
+Times.
+What has been done so far?
+India has already undertaken the following
+measures to counter the impact from of the pandemic:
+A three-week countrywide lockdown and fiscal steps, coupled with monetary measures from the RBI, to provide relief for all, especially the vulnerable and the disadvantaged A government has directed the employers to not terminate or cut wages, particularly that of casual or contractual workers, and low-paid workers to also take paid sick leave and unemployment allowance through the insurance cover Government to contribute to both employees’ and employers’ share in the Employees’ employees’ Provident Fund RBI relaxes lending norms for banks, injects cash into the system, slashes interest rates, and relaxes repayments for three months Managing the pandemic and the resultant public health crisis  Protecting income and employment, particularly for the disadvantaged and vulnerable sections of the society
+What can the Corporates do?
+The crisis is a story with an uncertain ending. However, what is clear that the COVID-19 has introduced new challenges to the business environment which called for a measured, practical and informed approach from political and business leaders. A company needs to think and act across five horizons:
+Resolve: Address the immediate challenges that COVID -19 represents the institution’s workforce, customers, technology, and business partners.Resilience: Address near-term cash management challenges and broader resiliency issues during virus-related shutdowns and economy Knock-on-effect.Return: Create a detailed plan to return the business to scale quickly as COVID -19 situation evolves and knock-on-effects become clearer.Reimagination: Re-imagine the next normal: What a discontinuous shift looks like and implications for how institutions should re-invent Reform: Be clear about how regulatory and competitive environments in India may shift.
+
+Figure
+1.6: Showing the
+crisis as a lesson to businessmen in assessing risk to their business. Source: The Economic Times 
+Collectively, these five stages epitomize the inescapable of our time: the battle
+against COVID-19 is one that leaders today must win in order to find an economically
+and socially feasible path to the next normal.
+What can the government do?
+The government should consider certain measures in order to manage the pandemic. The following steps and the recognition of the likely scenarios for the Indian economy can enable policymakers to identify appropriate countermeasures to stem the spread of the pandemic:
+Build a national database of the reachable physical health infrastructure and medical and para-medical resources The public and private health care facilities can be segregated by labeling a section of accessible hospital beds for treating COVID-19 patients only Extend additional one-time budgetary support to augment the public health care system in terms of facilities, equipment, and human resources capacity Earmark financial resources to provide one-time grants/financial support to research institutions and leading pharmaceutical/biotechnology/medical equipment companies Extend the coverage of Ayushman Bharat and other applicable insurance schemes to COVID-19 if not already included Tweak the existing customs duty structure for select components, which are essential for manufacturing testing kits, ventilators, etc.Enable access to funds for businesses to run their day to day operations and service their debt Ensure the smooth supply of essential products and commodities to contain the economic impact of the COVID-19 outbreak Provide credit support to Medium and Small Enterprises Encourage investments such as one-time set off of capital investments made by corporates for income-tax computations
+Therefore, the question remains whether the stimulus is enough or not – both quantitatively and qualitatively? Would it be able to help the economy absorb the shock of the lockdown? Compared to what the USA (2 trillion USD), Germany (610 billion USD), UK (424 billion USD), France (335 billion USD), Spain (218 billion USD), China (78.8 billion USD) and Italy (27.3 billion USD), the spending by India (1, 70,000 crore – 22.5 billion USD) may prima facie appear to be insufficient. However, such a comparison is not easy and straightforward because a lot of factors are to be taken into account. In addition, the important factor that needs to be considered is whether at this point in time the country is able to spend more than this or not. Against a revised budget estimate of Rs. 21,63,000 crore for 2019-20 towards Tax collections, the collection as on 31st Dec 2019 was to the tune of Rs. 13,83,000 crore only with a clearly huge shortfall. In addition, a substantial amount would also have to be spent now to tackle the pandemic which is of utmost priority. On top of it, huge additional spending would jeopardize the fiscal deficit discipline although, at times of emergency, fiscal deficit should not be a matter of concern at all.
+ It would also have to be seen how long this virus continues to affect India and going by the hygiene standard and herd mentality that we have, the virus continues to affect us beyond 3 months and extends to 6-8 months, quite obviously these packages would be grossly insufficient and more money will have to be pumped into the economy. If the need arises, currency notes will have to be printed and circulated and concerns about higher fiscal deficit should be simply pushed to the backseat. The corporate sector and a section of large-hearted people have also come forward at this time of distress to support the government initiatives in fighting this menace which should provide some financial comfort to the Government.
+The pandemic has appeared from nowhere as a potential death knell to the World economy which is already under stress and India is no exception. There is no second opinion that this pandemic has hit the world very hard and would continue to do so in the foreseeable future. Whether India can emerge from the medical pandemic as well as the economic pandemic relatively unscathed remains to be seen. We will have to take care of our lives as well as the livelihoods of our citizens. As Indians, we hope, we shall overcome.  Together we can do this and we will.
+Blackcoffer Insights 16:- Radhika Kejriwal, IMT Nagpur
